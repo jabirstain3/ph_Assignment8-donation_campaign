@@ -1,11 +1,11 @@
 import MenuToggle from "../menuToggle/MenuToggle";
-
+import { NavLink } from "react-router-dom";
 
 const links = <>
-                <li className="hover:">Home</li>
-                <li className="">Donation</li>
-                <li className="">Statistics</li>
-                <li className="">Contact Us</li>
+                <li className=""><NavLink to="/home">Home</NavLink></li>
+                <li className=""><NavLink to="/donation">Donation</NavLink></li>
+                <li className=""><NavLink to="/statistics">Statistics</NavLink></li>
+                <li className=""><NavLink to="/contact">Contact Us</NavLink></li>
             </>
             
 
