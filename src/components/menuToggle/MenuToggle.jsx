@@ -3,15 +3,15 @@ import { HiX,HiMenu  } from "react-icons/hi";
 import { NavLink } from "react-router-dom";
 
 const links = <>
-                <li className=""><NavLink to="/" className={({ isActive}) => {return (isActive ? "text-red-600" : "");}}>Home</NavLink></li>
-                <li className=""><NavLink to="/donation" className={({ isActive}) => {return (isActive ? "text-red-600" : "");}}>Donation</NavLink></li>
-                <li className=""><NavLink to="/statistics" className={({ isActive}) => {return (isActive ? "text-red-600" : "");}}>Statistics</NavLink></li>
-                <li className=""><NavLink to="/contact" className={({ isActive}) => {return (isActive ? "text-red-600" : "");}}>Contact Us</NavLink></li>
+                <li className=""><NavLink to="/ph_Assignment8-donation_campaign/">Home</NavLink></li>
+                <li className=""><NavLink to="/ph_Assignment8-donation_campaign/donation" className={({ isActive}) => {return (isActive ? "text-red-600" : "");}}>Donation</NavLink></li>
+                <li className=""><NavLink to="/ph_Assignment8-donation_campaign/statistics" className={({ isActive}) => {return (isActive ? "text-red-600" : "");}}>Statistics</NavLink></li>
+                <li className=""><NavLink to="/ph_Assignment8-donation_campaign/contact" className={({ isActive}) => {return (isActive ? "text-red-600" : "");}}>Contact Us</NavLink></li>
             </>
 
 const MenuToggle = () => {
     const [open, setOpen] = useState(false);
-    console.log(links);
+    // console.log(links);
     return (
         <div onClick={ () => setOpen(!open)}>
             {

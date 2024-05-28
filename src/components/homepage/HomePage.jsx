@@ -4,7 +4,7 @@ import Donation from '../donation/Donation';
 const HomePage = () => {
     
     return (
-        <div className='grid gap-y-12'>
+        <div className='grid gap-y-28'>
             <Banner ></Banner>
             <Donation></Donation>
         </div>

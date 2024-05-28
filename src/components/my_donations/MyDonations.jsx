@@ -1,5 +1,5 @@
 
-const Donations = () => {
+const MyDonations = () => {
     return (
         <div>
             
@@ -7,4 +7,4 @@ const Donations = () => {
     );
 };
 
-export default Donations;
+export default MyDonations;

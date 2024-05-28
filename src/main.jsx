@@ -8,27 +8,28 @@ import HomePage from './components/homepage/HomePage.jsx';
 import Statistics from './components/statistics/Statistics.jsx';
 import Contact from './components/contact/Contact.jsx';
 import ErrorPage from './components/errorPage/ErrorPage.jsx';
+import MyDonations from './components/my_donations/MyDonations.jsx';
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/ph_Assignment8-donation_campaign/",
     element: <App></App>,
     errorElement:<ErrorPage></ErrorPage>,
     children: [
       {
-        path: "/",
+        path: "/ph_Assignment8-donation_campaign/",
         element:<HomePage></HomePage> , 
       },
       {
-        path: "/donation",
-        element:<Donation></Donation> , 
+        path: "/ph_Assignment8-donation_campaign/donation",
+        element:<MyDonations></MyDonations>, 
       },
       {
-        path: "/statistics",
+        path: "/ph_Assignment8-donation_campaign/statistics",
         element:<Statistics></Statistics>, 
       },
       {
-        path: "/contact",
+        path: "/ph_Assignment8-donation_campaign/contact",
         element: <Contact></Contact> , 
       },
     ],
