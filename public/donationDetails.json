@@ -1,7 +1,8 @@
 [
         {
             "code": 1234,
-            "picture": "./src/assets/image/Health.png",
+            "picture": "../src/assets/image/Health.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4284.png",
             "title": "Clear water for children",
             "category": "Health",
             "category_bg": "#aec0d9",
@@ -12,7 +13,8 @@
         },
         {
             "code": 2345,
-            "picture": "./src/assets/image/Clothing.png",
+            "picture": "../src/assets/image/Clothing.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4287.png",
             "title": "Used Cothing Drive",
             "category": "Clothing",
             "category_bg": "#ffd2a5",
@@ -23,7 +25,8 @@
         },
         {
             "code": 3456,
-            "picture": "./src/assets/image/Education.png",
+            "picture": "../src/assets/image/Education.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4287-1.png",
             "title": "Quality Education",
             "category": "Education",
             "category_bg": "#d296bc",
@@ -34,7 +37,8 @@
         },
         {
             "code": 1408,
-            "picture": "./src/assets/image/Food.png",
+            "picture": "../src/assets/image/Food.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4287-2.png",
             "title": "Good Food for Everyone",
             "category": "Food",
             "category_bg": "#70BAC1",
@@ -45,7 +49,8 @@
         },
         {
             "code": 4567,
-            "picture": "./src/assets/image/Health.png",
+            "picture": "../src/assets/image/Health.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4284.png",
             "title": "Clear water for children",
             "category": "Health",
             "category_bg": "#aec0d9",
@@ -56,7 +61,8 @@
         },
         {
             "code": 5678,
-            "picture": "./src/assets/image/Clothing.png",
+            "picture": "../src/assets/image/Clothing.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4287.png",
             "title": "Used Cothing Drive",
             "category": "Clothing",
             "category_bg": "#ffd2a5",
@@ -67,7 +73,8 @@
         },
         {
             "code": 6789,
-            "picture": "./src/assets/image/Education.png",
+            "picture": "../src/assets/image/Education.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4287-1.png",
             "title": "Quality Education",
             "category": "Education",
             "category_bg": "#d296bc",
@@ -78,7 +85,8 @@
         },
         {
             "code": 1489,
-            "picture": "./src/assets/image/Food.png",
+            "picture": "../src/assets/image/Food.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4287.png-2",
             "title": "Good Food for Everyone",
             "category": "Food",
             "category_bg": "#70BAC1",
@@ -89,7 +97,8 @@
         },
         {
             "code": 7890,
-            "picture": "./src/assets/image/Health.png",
+            "picture": "../src/assets/image/Health.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4284.png",
             "title": "Clear water for children",
             "category": "Health",
             "category_bg": "#aec0d9",
@@ -100,7 +109,8 @@
         },
         {
             "code": 8901,
-            "picture": "./src/assets/image/Clothing.png",
+            "picture": "../src/assets/image/Clothing.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4287.png",
             "title": "Used Cothing Drive",
             "category": "Clothing",
             "category_bg": "#ffd2a5",
@@ -111,7 +121,8 @@
         },
         {
             "code": 9012,
-            "picture": "./src/assets/image/Education.png",
+            "picture": "../src/assets/image/Education.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4287-1.png",
             "title": "Quality Education",
             "category": "Education",
             "category_bg": "#d296bc",
@@ -122,7 +133,8 @@
         },
         {
             "code": 1418,
-            "picture": "./src/assets/image/Food.png",
+            "picture": "../src/assets/image/Food.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4287-2.png",
             "title": "Good Food for Everyone",
             "category": "Food",
             "category_bg": "#70BAC1",
@@ -133,7 +145,8 @@
         },
         {
             "code": 1011,
-            "picture": "./src/assets/image/Health.png",
+            "picture": "../src/assets/image/Health.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4284.png",
             "title": "Clear water for children",
             "category": "Health",
             "category_bg": "#aec0d9",
@@ -144,7 +157,8 @@
         },
         {
             "code": 1112,
-            "picture": "./src/assets/image/Clothing.png",
+            "picture": "../src/assets/image/Clothing.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4287.png",
             "title": "Used Cothing Drive",
             "category": "Clothing",
             "category_bg": "#ffd2a5",
@@ -155,7 +169,8 @@
         },
         {
             "code": 1213,
-            "picture": "./src/assets/image/Education.png",
+            "picture": "../src/assets/image/Education.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4287-1.png",
             "title": "Quality Education",
             "category": "Education",
             "category_bg": "#d296bc",
@@ -166,7 +181,8 @@
         },
         {
             "code": 4053,
-            "picture": "./src/assets/image/Food.png",
+            "picture": "../src/assets/image/Food.png",
+            "detailedPicture":"../src/assets/image/Rectangle_4287-2.png",
             "title": "Good Food for Everyone",
             "category": "Food",
             "category_bg": "#70BAC1",
@@ -176,5 +192,3 @@
             "price": "$289.99"
         }
     ]
-
-  
